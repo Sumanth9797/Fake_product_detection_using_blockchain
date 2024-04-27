@@ -16,7 +16,7 @@
 
 1. Clone the project
 ```
-git clone https://github.com/A4ANK/Fake-Product-Identification.git
+git clone https:https://github.com/Sumanth9797/Fake_product_detection_using_blockchain
 ```
 2. Go to the project folder, open terminal there and run following command to install required node_modules:-
 ```
